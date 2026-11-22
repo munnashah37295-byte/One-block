@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Rajan01.aternos.me",
-    "port": 26421,
+    "ip": "Rajan02.aternos.me",
+    "port": 13237,
     "version": "1.20.1",
     "try-creative": false
   },
